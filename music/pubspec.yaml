@@ -1,0 +1,32 @@
+name: music
+description: "A local mp3 music player. "
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fluent_ui: ^4.16.1
+  window_manager: ^0.5.2
+  audio_metadata_reader: ^1.7.1
+  path: ^1.9.1
+  provider: ^6.1.5+1
+  file_picker: ^12.1.3
+  audioplayers: ^6.8.1
+  scrollable_positioned_list: ^0.3.8
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: NotoSansCJKsc
+      fonts:
+        - asset: assets/font/NotoSansCJKsc-VF.ttf
