@@ -8,6 +8,13 @@
 ## 本地音乐页面
 ![show](MdPictures/1.png)
 ## 专辑及专辑详情页面
+![show](MdPictures/2.png)
+![show](MdPictures/3.png)
 ## 艺术家及艺术家详情页面
+![show](MdPictures/4.png)
+![show](MdPictures/5.png)
 ## 设置页面
-## 播放器页面
+![show](MdPictures/6.png)
+## 播放器页面(封面模式/歌词模式)
+![show](MdPictures/7.png)
+![show](MdPictures/8.png)
